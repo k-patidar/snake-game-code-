@@ -13,6 +13,12 @@ BLOCK_SIZE = 20
 FPS = 10
 
 # Colors
+WHITE = (300, 300, 300)
+GREEN = (0, 255, 0)
+DARK_GREEN = (0, 155, 0)
+RED = (255, 0, 0)
+BLACK = (0, 0, 0)
+BLUE = (0, 0, 255)
 
 
 # Fonts
@@ -159,5 +165,6 @@ if __name__ == "__main__":
     start_screen()
     game_loop()
 #new line add
+
 
 
